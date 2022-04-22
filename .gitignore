@@ -1,0 +1,14 @@
+# Folders
+*.idea/
+*build/
+*cmake-build-debug/
+*.vscode/
+
+# Filetypes
+*.zip
+
+# Specific files
+*imgui.ini
+*.clang-format
+shortcut.txt
+*.DS_Store

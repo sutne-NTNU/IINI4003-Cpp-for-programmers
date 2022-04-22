@@ -1,1 +1,6 @@
-# IINI4003-Cpp-for-programmers
+# IINI4003 - C++ for programmers
+
+<img title="projects created in CLion" alt="CLion" width="52px" style="margin-right:10px"
+src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" />
+<img title="projects created in jucipp"  width="52px"
+src="https://gitlab.com/uploads/-/system/project/avatar/7023483/juci.png" />
