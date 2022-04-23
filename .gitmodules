@@ -1,0 +1,6 @@
+[submodule "10 - Third party libraries/libs/imgui"]
+	path = 10 - Third party libraries/libs/imgui
+	url = https://github.com/ocornut/imgui
+[submodule "10 - Third party libraries/libs/imgui-sfml"]
+	path = 10 - Third party libraries/libs/imgui-sfml
+	url = https://github.com/eliasdaler/imgui-sfml
