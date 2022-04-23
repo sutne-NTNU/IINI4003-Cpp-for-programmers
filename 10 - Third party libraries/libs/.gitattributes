@@ -1,0 +1,13 @@
+*.c linguist-documentation
+*.cpp linguist-documentation
+*.h linguist-documentation
+*.m linguist-documentation
+*.mm linguist-documentation
+*.txt linguist-documentation
+*.html linguist-documentation
+Makefile linguist-documentation
+*.cmake linguist-documentation
+*.sh linguist-documentation
+*.pbxproj linguist-documentation
+*.storyboard linguist-documentation
+*.plist linguist-documentation
